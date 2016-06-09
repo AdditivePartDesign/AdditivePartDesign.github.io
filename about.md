@@ -3,13 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
+![Sexy John Stamos](/images/me.jpg){: .center-image .half-width}
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Additive Part Design is a 3D printing engineering design consulting service. We provide engineering solutions geared towards one off replacement parts for legacy equipment or general solutions for manufacturing environments. Every service provided is executed by the owner and operator. Need a quick prototype printed? We got you. Need a parametric computer model of your part created? We got you. Need a quick and dirty print with full GD&amp;T? We can do that too. If your solution can be completed in plastic I am here to help.
