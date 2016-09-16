@@ -5,7 +5,7 @@ permalink: /about/
 ---
 ![Sexy John Stamos](/images/me.jpg){: .center-image .half-width}
 
-Additive Part Design is a 3D printing engineering design consulting service. We provide engineering solutions geared towards one off replacement parts for anything where a plastic part can do the job. This includes parts from commercial drones to general solutions for manufacturing environments. Every service provided is executed by the owner and operator. Need a quick prototype printed? I can do that. Need a parametric computer model of your part created? I can do that. Need a quick and dirty print with full GD&amp;T? I can do that too. If your solution can be completed in plastic I am here to help.
+Additive Part Design is a 3D printing engineering design consulting service. We provide engineering solutions geared towards replacement parts for anything where a custom part can do the job. This includes parts from commercial drones to general solutions for manufacturing environments. Every service provided is executed by the owner and operator. Need a quick prototype printed? I can do that. Need a parametric computer model of your part created? I can do that. Need a quick and dirty print with full GD&amp;T? I can do that too. If your solution can be completed in plastic I am here to help. We have recently partnered with White Graphics in Lombard IL (www.whitegraphics.com) and will be the go to 3D printing support service for packaging prototypes. 
 
 About the engineer
 
